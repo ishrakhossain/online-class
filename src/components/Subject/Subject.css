@@ -1,0 +1,22 @@
+.subject{
+    display: flex;
+    border-bottom: 1px solid black;
+}
+.subject img{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.subject-name{
+    padding-left: 200px;
+}
+.enroll-btn{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: goldenrod;
+    cursor: pointer;
+}

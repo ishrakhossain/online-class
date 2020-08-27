@@ -1,0 +1,7 @@
+.allCourse-container{
+    display:flex;
+}
+.cart-container{
+    margin-left: 700px;
+    border-left: 1px solid black;
+}
